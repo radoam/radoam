@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+<br />
+
+<div align="center">
+
+### ...and `checkout` what I'm working on in my pinned projects!
+
+</div>
