@@ -32,8 +32,11 @@
 <br />
 
 ---
+<div align="center">
 
 ![quote](/assets/quote.png)
+
+</div>
 
 ---
 
