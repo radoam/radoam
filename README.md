@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### `checkout` what I'm working on in my pinned projects!
+### `checkout` what I'm working on, in my pinned projects!
 
 </div>
