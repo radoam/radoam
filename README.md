@@ -2,6 +2,10 @@
 
 ---
 
+### Connect with me:
+
+---
+
 <div align="center">
 
 ### `checkout` what I'm working on, in my pinned projects!
