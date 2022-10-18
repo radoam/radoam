@@ -33,6 +33,13 @@
 
 ---
 
+> There's certainly yet more to learn,
+> yet more problems to solve and
+> yet more to build.
+> And for this I am very grateful.
+
+---
+
 <div align="center">
 
 ### `checkout` what I'm working on, in my pinned projects!
