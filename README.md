@@ -1,6 +1,6 @@
 ![Hi, I'am Radosław Łuczak, fulstack developer working with passion](/assets/profile-banner.png)
 
-### Connect with me:
+### ✨ Connect with me:
 
 ---
 
