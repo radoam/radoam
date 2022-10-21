@@ -26,6 +26,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="/assets/terminal-dark.svg#gh-dark-mode-only" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="/assets/terminal-light.svg#gh-light-mode-only" style="padding-right:10px;" />
+<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
